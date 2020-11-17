@@ -1,0 +1,60 @@
+﻿<Page
+    x:Class="AccessoriesInfo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AccessoriesInfo"
+   
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+   
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/beach.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="9*" />
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Text="Computer Accessories" FontFamily="Comic Sans MS" FontSize="35" Foreground="Blue" VerticalAlignment="Center" HorizontalAlignment="Center" />
+        <Grid x:ConnectionId='2' x:Name="tblBooks" Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="4*" />
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="DeviceName" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="20" Foreground="Navy"  Margin="0,0,10,0" />
+            <TextBlock Text="ModelNumber" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="20" Foreground="Navy" Margin="0,0,10,0" />
+            <TextBlock Text="Price" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="20" Foreground="Navy" Margin="0,0,10,0" />
+            <TextBlock Text="Stutus" Grid.Row="3" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="20" Foreground="Navy" Margin="0,0,10,0" />
+            <TextBox x:ConnectionId='3' IsEnabled="{Binding Path=IsAddingOrEditing}" x:Name="tDeviceName" Text="{Binding Path=Current.DeviceName, Mode=TwoWay}" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontSize="20" />
+            <TextBox x:ConnectionId='4' IsEnabled="{Binding Path=IsAddingOrEditing}" x:Name="tModelNumber" Text="{Binding Path=Current.ModelNumber, Mode=TwoWay}" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontSize="20" />
+            <TextBox x:ConnectionId='5' IsEnabled="{Binding Path=IsAddingOrEditing}" x:Name="tPrice" Text="{Binding Path=Current.Price,Mode=TwoWay}" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontSize="20" />
+            <ComboBox x:ConnectionId='6' IsEnabled="{Binding Path=IsAddingOrEditing}" x:Name="cStutus" SelectedValue="{Binding Path=Current.Stutus, Mode=TwoWay}" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Center" FontSize="20" />
+        </Grid>
+    </Grid>
+    <Page.TopAppBar>
+        <CommandBar>
+            <AppBarButton x:ConnectionId='7' IsEnabled="{Binding Path=IsBrowsing}"                     x:Name="first" Icon="Previous" Label="First" />
+            <AppBarButton x:ConnectionId='8' IsEnabled="{Binding Path=IsBrowsing}"                    x:Name="prev" Icon="Back" Label="Previous" />
+            <AppBarButton x:ConnectionId='9' IsEnabled="{Binding Path=IsBrowsing}"                    x:Name="next" Icon="Forward" Label="Next" />
+            <AppBarButton x:ConnectionId='10' IsEnabled="{Binding Path=IsBrowsing}"                    x:Name="last" Icon="Next" Label="Last" />
+        </CommandBar>
+    </Page.TopAppBar>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:ConnectionId='11' IsEnabled="{Binding Path=IsBrowsing}"                   x:Name="add" Icon="Add" Label="New" />
+            <AppBarButton x:ConnectionId='12' IsEnabled="{Binding Path=IsBrowsing}"                    x:Name="edit" Icon="Edit" Label="Edit" />
+            <AppBarButton x:ConnectionId='13' IsEnabled="{Binding Path=IsAddingOrEditing}"                     x:Name="save" Icon="Save" Label="Save" />
+            <AppBarButton x:ConnectionId='14' IsEnabled="{Binding Path=IsAddingOrEditing}"                      x:Name="cancel" Icon="Undo" Label="Undo" />
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

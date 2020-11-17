@@ -1,0 +1,880 @@
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\App.xbf
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\MainPage.xbf
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AccessoriesInfo.xr.xml
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AccessoriesInfo.exe
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AccessoriesInfo.pdb
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\resources.pri
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AppxManifest.xml
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Core\AccessoriesInfo.exe
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Core\AppxManifest.xml
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AccessoriesInfo.build.appxrecipe
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Microsoft.CSharp.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Core.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Numerics.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Serialization.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Web.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Windows.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.Linq.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.Serialization.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Microsoft.VisualBasic.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.Tools.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.Tracing.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Globalization.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Globalization.Calendars.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Extensions.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Primitives.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Resources.ResourceManager.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Handles.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.InteropServices.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Text.Encoding.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Tasks.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Timer.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.Debug.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.FileSystem.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Primitives.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Sockets.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Extensions.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\clrjit.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\clrcompression.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Private.Uri.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.AppContext.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Buffers.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.Concurrent.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.Immutable.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.NonGeneric.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.Specialized.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ComponentModel.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ComponentModel.Annotations.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Data.Common.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.Contracts.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Dynamic.Runtime.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Globalization.Extensions.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.Compression.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.IsolatedStorage.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Linq.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Linq.Expressions.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Linq.Parallel.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Linq.Queryable.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Http.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Http.Rtc.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.NameResolution.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.NetworkInformation.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Requests.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.WebSockets.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.WebSockets.Client.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Numerics.Vectors.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ObjectModel.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Private.DataContractSerialization.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Private.ServiceModel.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Context.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Emit.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Metadata.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Numerics.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Claims.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Principal.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Duplex.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Http.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Primitives.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Security.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Text.RegularExpressions.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Overlapped.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.ReaderWriter.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.XDocument.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.XmlDocument.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.XmlSerializer.dll
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.csprojAssemblyReference.cache
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\App.g.i.cs
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\App.g.cs
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MainPage.g.i.cs
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MainPage.g.cs
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\App.xaml
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MainPage.xaml
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\App.xbf
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MainPage.xbf
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\XamlSaveStateFile.xml
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.csproj.CoreCompileInputs.cache
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.csproj.CopyComplete
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.exe
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.pdb
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\ResourceHandlingTask.state
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Linq.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Threading.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\priconfig.xml
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\priconfig.xml.intermediate
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\unfiltered.layout.resfiles
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\filtered.layout.resfiles
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\filtered.layout.resfiles.intermediate
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\excluded.layout.resfiles
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\excluded.layout.resfiles.intermediate
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\resources.resfiles
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\resources.resfiles.intermediate
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\pri.resfiles
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\pri.resfiles.intermediate
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\qualifiers.txt
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\qualifiers.txt.intermediate
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\ProjectArchitectures.txt
+F:\Rashedul_R-43_cs\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758336200000000.json
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\App.xbf
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\MainPage.xbf
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AccessoriesInfo.xr.xml
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AccessoriesInfo.exe
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AccessoriesInfo.pdb
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\resources.pri
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AppxManifest.xml
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Core\AccessoriesInfo.exe
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Core\AppxManifest.xml
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AccessoriesInfo.build.appxrecipe
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Microsoft.CSharp.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Core.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Numerics.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Serialization.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Web.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Windows.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.Linq.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.Serialization.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Microsoft.VisualBasic.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.Tools.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.Tracing.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Globalization.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Globalization.Calendars.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Extensions.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Primitives.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Resources.ResourceManager.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Handles.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.InteropServices.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Text.Encoding.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Tasks.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Timer.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.Debug.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.FileSystem.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Primitives.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Sockets.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Extensions.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\clrjit.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\clrcompression.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Private.Uri.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.AppContext.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Buffers.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.Concurrent.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.Immutable.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.NonGeneric.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.Specialized.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ComponentModel.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ComponentModel.Annotations.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Data.Common.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.Contracts.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Dynamic.Runtime.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Globalization.Extensions.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.Compression.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.IsolatedStorage.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Linq.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Linq.Expressions.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Linq.Parallel.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Linq.Queryable.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Http.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Http.Rtc.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.NameResolution.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.NetworkInformation.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Requests.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.WebSockets.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.WebSockets.Client.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Numerics.Vectors.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ObjectModel.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Private.DataContractSerialization.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Private.ServiceModel.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Context.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Emit.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Metadata.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Numerics.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Claims.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Principal.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Duplex.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Http.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Primitives.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Security.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Text.RegularExpressions.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Overlapped.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.ReaderWriter.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.XDocument.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.XmlDocument.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.XmlSerializer.dll
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\App.g.i.cs
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\App.g.cs
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MainPage.g.i.cs
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MainPage.g.cs
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\App.xaml
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MainPage.xaml
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\App.xbf
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MainPage.xbf
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\XamlSaveStateFile.xml
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.csproj.CoreCompileInputs.cache
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.csproj.CopyComplete
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.exe
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.pdb
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\ResourceHandlingTask.state
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Linq.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Threading.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\priconfig.xml
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\priconfig.xml.intermediate
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\unfiltered.layout.resfiles
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\filtered.layout.resfiles
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\filtered.layout.resfiles.intermediate
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\excluded.layout.resfiles
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\excluded.layout.resfiles.intermediate
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\resources.resfiles
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\resources.resfiles.intermediate
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\pri.resfiles
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\pri.resfiles.intermediate
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\qualifiers.txt
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\qualifiers.txt.intermediate
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\ProjectArchitectures.txt
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758336200000000.json
+F:\Rashedul_R-43_cs\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.csprojAssemblyReference.cache
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\App.xbf
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\MainPage.xbf
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AccessoriesInfo.xr.xml
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AccessoriesInfo.exe
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AccessoriesInfo.pdb
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\resources.pri
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AppxManifest.xml
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Core\AccessoriesInfo.exe
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AccessoriesInfo.build.appxrecipe
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Core.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Numerics.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Windows.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Globalization.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\clrjit.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\clrcompression.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.AppContext.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Buffers.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Data.Common.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Linq.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Http.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.csprojAssemblyReference.cache
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\App.g.i.cs
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\App.g.cs
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MainPage.g.cs
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\App.xaml
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MainPage.xaml
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\App.xbf
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MainPage.xbf
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.csproj.CoreCompileInputs.cache
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.csproj.CopyComplete
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.exe
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.pdb
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\priconfig.xml
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\resources.resfiles
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\pri.resfiles
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\qualifiers.txt
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\AT Computer\Desktop\Rashedul_1255675\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758336200000000.json
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\App.xbf
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\MainPage.xbf
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AccessoriesInfo.xr.xml
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AccessoriesInfo.exe
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AccessoriesInfo.pdb
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\resources.pri
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AppxManifest.xml
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Core\AccessoriesInfo.exe
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Core\AppxManifest.xml
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\AccessoriesInfo.build.appxrecipe
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Microsoft.CSharp.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Core.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Numerics.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Serialization.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Web.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Windows.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.Linq.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.Serialization.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Microsoft.VisualBasic.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Globalization.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Handles.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Text.Encoding.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Tasks.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Timer.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.FileSystem.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Primitives.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Sockets.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\clrjit.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\clrcompression.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Private.Uri.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.AppContext.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Buffers.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.Immutable.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Collections.Specialized.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ComponentModel.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ComponentModel.Annotations.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Data.Common.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.Compression.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Linq.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Linq.Expressions.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Linq.Parallel.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Linq.Queryable.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Http.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Http.Rtc.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.NameResolution.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.Requests.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.WebSockets.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ObjectModel.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Private.DataContractSerialization.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Private.ServiceModel.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Context.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Emit.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.Metadata.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Claims.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Security.Principal.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Duplex.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Http.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Primitives.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.ServiceModel.Security.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.XDocument.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.csprojAssemblyReference.cache
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\App.g.i.cs
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\App.g.cs
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MainPage.g.i.cs
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MainPage.g.cs
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\App.xaml
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MainPage.xaml
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\App.xbf
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MainPage.xbf
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\XamlSaveStateFile.xml
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.csproj.CoreCompileInputs.cache
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.csproj.CopyComplete
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.exe
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\AccessoriesInfo.pdb
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\ResourceHandlingTask.state
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Linq.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Threading.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\priconfig.xml
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\priconfig.xml.intermediate
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\unfiltered.layout.resfiles
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\filtered.layout.resfiles
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\excluded.layout.resfiles
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\resources.resfiles
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\resources.resfiles.intermediate
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\pri.resfiles
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\pri.resfiles.intermediate
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\qualifiers.txt
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\qualifiers.txt.intermediate
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\ProjectArchitectures.txt
+D:\ESADR43\M3\Projects\AccessoriesInfo\AccessoriesInfo\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758336200000000.json
